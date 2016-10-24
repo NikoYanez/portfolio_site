@@ -1,0 +1,174 @@
+body {
+  margin: 0;
+}
+
+.self {
+  background: url("https://images.unsplash.com/photo-1430165558479-de3cf8cf1478?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=f285d87db4197ef3c454dd8fa6412797");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+html{
+  background-color: white;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Open Sans';
+}
+
+.subs {
+  padding-left: 1em;
+  text-align: center;
+}
+
+#name {
+  margin-bottom: 0;
+}
+
+#title {
+  /*text-align: center;*/
+  font-family: 'Open Sans';
+  margin-top: 0;
+  margin-left: 42.3%
+}
+
+/* unvisited link */
+a:link #twitter{
+  color: #65daf2;
+}
+
+/* visited link */
+/*a:visited {
+color: purple;
+}*/
+
+#bio {
+  text-align: center;
+  font-family: Helvetica;
+  width: 50%;
+  margin-left: 25%;
+}
+
+#social {
+  margin-left: 23em;
+}
+
+#social li{
+  display: inline;
+  padding: 5em;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  padding-top: 2em;
+}
+
+.image-circle{
+  border-radius: 50%;
+  text-align: center;
+}
+
+.languages li{
+  list-style-type: none;
+  display: inline-block;
+  margin: 0 auto;
+}
+
+ul {
+  display: inline-block;
+}
+
+.subs {
+  text-align: center;
+}
+
+#ruby {
+  height: 50px;
+  width: 50px;
+  margin-left: 28em;
+  padding-top: 0;
+  padding-left: 2em;
+}
+
+#rails {
+  height: 50px;
+  width: 50px;
+  margin-left: 0;
+  padding-top: 0;
+  padding-left: 2em;
+}
+
+#javascript {
+  height: 60px;
+  width: 60px;
+  margin-left: 0;
+  padding-top: 0;
+  padding-left: 2em;
+}
+
+#html {
+  height: 55px;
+  width: 55px;
+  margin-left: 0;
+  padding-top: 0;
+  padding-left: 2em;
+}
+
+#css {
+  height: 55px;
+  width: 55px;
+  margin-left: 0;
+  padding-top: 0;
+  padding-left: 2em;
+}
+
+#twitter {
+  color: #65daf2;
+}
+
+#github {
+  color: black;
+}
+
+#linkedin {
+  color: #305ec1;
+}
+
+#contact {
+  text-align: center;
+}
+
+/*.contact {
+  display: inline-block;;
+  margin-left: 37em;
+  list-style-type: none;
+  text-align: center;
+  padding-top: 0;
+}*/
+
+.contact li {
+  padding: 0.5em
+}
+
+.email {
+  list-style: none;
+  margin-left: 32.5em;
+}
+
+.phone-number {
+  list-style: none;
+}
+
+#fa-icon-mail {
+  text-align: center;
+  color: blue;
+  font-size: 1.3em
+}
+
+#fa-icon-phone {
+  text-align: center;
+  color: green;
+  font-size: 1.5em;
+}
