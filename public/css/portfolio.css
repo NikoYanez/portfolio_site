@@ -20,6 +20,7 @@ h1 {
 .subs {
   padding-left: 1em;
   text-align: center;
+  font-family: monospace;
 }
 
 #name {
@@ -45,7 +46,8 @@ color: purple;
 
 #bio {
   text-align: center;
-  font-family: Helvetica;
+  font-family: monospace;
+  font-size: 1.2em;
   width: 50%;
   margin-left: 25%;
 }
